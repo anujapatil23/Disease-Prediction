@@ -404,14 +404,7 @@
                 
                 ?>
                     
-                        
-                        
-                        
-                    
-                    
-                
-                            
-                    </tr>
+                 </tr>
 				</tbody>
 			</table>
 		</div>
@@ -437,9 +430,6 @@
 <?php
 if(isset($_POST['submit'])){
 include_once 'connection.php';
-
- 
-  //print_r($_POST);
   
 
     $name=$_POST['name'];
