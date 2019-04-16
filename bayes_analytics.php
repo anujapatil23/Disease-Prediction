@@ -8,46 +8,42 @@
         //for patient medical data
         $symptoms_test=array();
         $lab_test=array();
-       // $physical_test=array();
+       
         $history_test=array();
-        //$physiological_test=array();
+        
         $lab_test_value=array();
         $patient_id=array();
         //for exploding patient's medical data
         $symptoms=array();
         $lab=array();
-        //$physical=array();
+        
         $history=array();
-        //$physiological=array();
- //       $lab_value=array();
+        
         //for disease data
         $d_symptoms_test=array();
         $d_lab_test=array();
-        //$d_physical_test=array();
+        
         $d_history_test=array();
-        //$d_physiological_test=array();
+        
         $d_disease_list=array();
         //for exploding disease data
         $d_symptoms=array();
         $d_lab=array();
-        //$d_physical=array();
+        
         $d_history=array();
-        //$d_physiological=array();
+        
         $d_disease=array();
         //for probability
         $symptom_prob=array();
         $lab_test_prob=array();
-       // $physical_prob=array();
-        //$physiological_prob=array();
+      
         $history_prob=array();
         
         //for exploding probability
         $e_symptom_prob=array();
     //    $e_lab_prob=array();
         $e_history_prob=array();
-        //$e_phsical_prob=array();
-       // $e_physiological_prob=array();
-        
+       
         if($con)
         {       
             //echo 'connected'."<br>";
