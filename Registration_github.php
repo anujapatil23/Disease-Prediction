@@ -6,6 +6,7 @@
  * and open the template in the editor.
  */
 ?>
+
 <html>
     <head>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
